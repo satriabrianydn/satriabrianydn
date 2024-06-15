@@ -17,8 +17,8 @@
  
 ### <summary><strong>Let's connect with me!</strong></summary>
 <a href="https://twitter.com/satriabrianydnt">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+  <img align="left" alt="My Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
 <a href="https://www.instagram.com/satriabrianydnt/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+  <img align="left" alt="My Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
