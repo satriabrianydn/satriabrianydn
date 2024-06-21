@@ -16,9 +16,9 @@
 <p>
  
 ### <summary><strong>Let's connect with me!</strong></summary>
-<a href="https://twitter.com/satriabrianydnt">
-  <img align="left" alt="My Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
 <a href="https://www.instagram.com/satriabrianydnt/">
   <img align="left" alt="My Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+</a>
+<a href="https://twitter.com/satriabrianydnt">
+  <img align="left" alt="My Twitter" width="20px" src="https://simpleicons.vercel.app/x/495f7e" />
 </a>
