@@ -22,3 +22,6 @@
 <a href="https://twitter.com/satriabrianydnt">
   <img align="left" alt="My Twitter" width="20px" src="https://simpleicons.vercel.app/x/495f7e" />
 </a>
+<a href="https://threads.net/satriabrianydnt">
+  <img align="left" alt="My Twitter" width="20px" src="https://simpleicons.vercel.app/threads/495f7e" />
+</a>
