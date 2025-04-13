@@ -14,7 +14,7 @@
 <a href="https://facebook.com/satriabrianydnt">
   <img align="left" alt="My Facebook" width="20px" src="https://simpleicons.vercel.app/facebook/495f7e" />
 </a>
-<a href="https://www.instagram.com/satriabrianydnt/">
+<a href="https://www.instagram.com/anotherside.brian/">
   <img align="left" alt="My Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <a href="https://twitter.com/satriabrianydnt">
