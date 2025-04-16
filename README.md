@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Satria Brian Yudanto</h2>
+<h1 align="center">Hi 👋! My name is Satria Brian Yudanto</h1>
 
 ###
 
