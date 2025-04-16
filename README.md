@@ -12,11 +12,11 @@
  
 ### <summary><strong>Let's connect with me!</strong></summary>
 <a href="https://facebook.com/satriabrianydnt">
-  <img align="left" alt="My Facebook" width="20px" src="https://simpleicons.vercel.app/facebook/495f7e" />
+  <img align="left" alt="My Facebook" width="20px" src="https://simpleicons.vercel.app/facebook/fff" />
 </a>
 <a href="https://www.instagram.com/satriabrianydnt/">
-  <img align="left" alt="My Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+  <img align="left" alt="My Instagram" width="20px" src="https://simpleicons.now.sh/instagram/fff" />
 </a>
 <a href="https://twitter.com/satriabrianydnt">
-  <img align="left" alt="My Twitter" width="20px" src="https://simpleicons.vercel.app/x/495f7e" />
+  <img align="left" alt="My Twitter" width="20px" src="https://simpleicons.vercel.app/x/fff" />
 </a>
