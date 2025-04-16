@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Satria Brian Yudanto</h1>
+<h2 align="center">Hi 👋! My name is Satria Brian Yudanto</h2>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">🏫 I am currently studying at Universitas Duta Bangsa Surakarta as an Informatics Engineering student<br>🎮 Half Game, Half Coding xD<br>🎵 I like listening to music<br>💬 Ask me about Anything</p>
+<p align="left">🏫: I am currently studying as an Informatics Engineering Student<br>🎮: Half Game, Half Coding xD<br>🎵: I like listening to music too<br>💬: Ask me about Anything :)</p>
 
 ###
 
@@ -49,6 +49,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="35" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
 </div>
