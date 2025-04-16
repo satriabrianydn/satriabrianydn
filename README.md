@@ -1,4 +1,4 @@
-# <summary><strong>Hi there, I'm Satria👋</strong></summary>
+# <summary align="center"><strong>Hi there, I'm Satria👋</strong></summary>
 <img src="https://komarev.com/ghpvc/?username=satriabrianydn&label=Profile%20views&color=0e75b6&style=flat" alt="satriabrianydn" />
 </p>
 
