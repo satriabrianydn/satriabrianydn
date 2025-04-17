@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Satria Brian Yudanto</h2>
+<h2 align="center">Hi there, I'm Satria 👋!</h2>
 
 ###
 
@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXN6anNuaW1oMzdhb295emhiZWgxbmJjcG96OG5vbHQwbDgxcTMxciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KcesdHR3mn0VWq5qMr/giphy.gif"  />
+  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2g3dnA5MGp1MXJwajg5NTZ0Y2NjajA2ZnN6YjAxcXg3b3o5aDEzbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SJXzadwbexJEAZ9S1B/giphy.gif"  />
 </div>
 
 ###
@@ -38,11 +38,15 @@
 ###
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="laravel logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter logo"  />
   <img width="12" />
@@ -85,5 +89,11 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/satriabrianydn/satriabrianydn/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 
 ###
