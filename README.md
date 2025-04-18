@@ -7,13 +7,13 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2g3dnA5MGp1MXJwajg5NTZ0Y2NjajA2ZnN6YjAxcXg3b3o5aDEzbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SJXzadwbexJEAZ9S1B/giphy.gif"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=satriabrianydn.satriabrianydn&left_text=Profile%20views"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=satriabrianydn.satriabrianydn&left_text=Profile%20views"  />
+  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2g3dnA5MGp1MXJwajg5NTZ0Y2NjajA2ZnN6YjAxcXg3b3o5aDEzbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SJXzadwbexJEAZ9S1B/giphy.gif"  />
 </div>
 
 ###
