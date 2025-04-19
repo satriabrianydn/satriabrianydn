@@ -1,11 +1,5 @@
 <h2 align="center">Hi there, I'm Satria 👋!</h2>
 
-###
-
-<h3 align="center">I'm Currently Learning as Backend Developer</h3>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=satriabrianydn.satriabrianydn&left_text=Profile%20views"  />
 </div>
@@ -35,10 +29,11 @@
 
 ###
 
-- 🏫 I am currently studying as an Informatics Engineering Student
-- 🎮Half Game, Half Coding xD
-- 🎵 I like listening to music too
-- 💬 Ask me about Anything :)
+- 🌱 Currently learning as **Backend Developer**
+- 🏫 I am currently studying as an **Informatics Engineering Student**
+- 💬 Ask me about **Web Development, Mobile Development**
+- ⚡ Fun fact: I like listening to music too
+- 🎮 Half Game, Half Coding xD
 
 ###
 
