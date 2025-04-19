@@ -35,7 +35,10 @@
 
 ###
 
-<p align="left">🏫: I am currently studying as an Informatics Engineering Student<br>🎮: Half Game, Half Coding xD<br>🎵: I like listening to music too<br>💬: Ask me about Anything :)</p>
+- 🏫 I am currently studying as an Informatics Engineering Student
+- 🎮Half Game, Half Coding xD
+- 🎵 I like listening to music too
+- 💬 Ask me about Anything :)
 
 ###
 
